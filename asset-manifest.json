@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/laundracan/static/css/main.755cb120.css",
+    "main.js": "/laundracan/static/js/main.376c5963.js",
+    "static/js/787.442fb297.chunk.js": "/laundracan/static/js/787.442fb297.chunk.js",
+    "static/media/banner.jpg": "/laundracan/static/media/banner.936c710336aa068d3c4e.jpg",
+    "static/media/map.png": "/laundracan/static/media/map.17ad3e61ec7f773ad278.png",
+    "index.html": "/laundracan/index.html",
+    "main.755cb120.css.map": "/laundracan/static/css/main.755cb120.css.map",
+    "main.376c5963.js.map": "/laundracan/static/js/main.376c5963.js.map",
+    "787.442fb297.chunk.js.map": "/laundracan/static/js/787.442fb297.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755cb120.css",
+    "static/js/main.376c5963.js"
+  ]
+}
